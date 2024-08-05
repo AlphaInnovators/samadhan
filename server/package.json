@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "server",
   "version": "1.0.0",
-  "description": "backend of samadhan.com",
+  "description": "backend for samadhan.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "keywords": [
     "javascript",
     "backend",
-    "samadhaan.com"
+    "samadhhan.com"
   ],
-  "author": "money goyal",
+  "author": "",
   "license": "ISC"
 }
