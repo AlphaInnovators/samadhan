@@ -1,1 +1,1 @@
-this is our codebase for samadhan.com   by money goyal
+this is our codebase for samadhan.com
